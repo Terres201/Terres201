@@ -8,7 +8,7 @@ Trabalhando na interseção entre design cenográfico, jogos e desenvolvimento d
 ### ⚔️ Sistema de Defesa do Perfil (Serverless API)
 *Clique no sabre para alternar a energia (Desenvolvido em Node.js)*
 
-[![Sabre de Luz](https://api-r9u52p5si-bielgeraldini235-5797s-projects.vercel.app/api/sabre)](https://api-r9u52p5si-bielgeraldini235-5797s-projects.vercel.app/api/sabre?toggle=true)
+[![Sabre de Luz](https://lightsaber-6ccu4maqv-bielgeraldini235-5797s-projects.vercel.app/api/sabre)](https://lightsaber-6ccu4maqv-bielgeraldini235-5797s-projects.vercel.app/api/sabre?toggle=true)
 
 ### Minhas Estatísticas
 
