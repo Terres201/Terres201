@@ -1,0 +1,31 @@
+name: Lightsaber Toggle
+on:
+  workflow_dispatch: # Permite disparar manualmente ou via link
+
+jobs:
+  toggle:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão para o robô fazer commits no seu repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Toggle Image in README
+        run: |
+          # Procura qual imagem está no README e inverte para a outra
+          if grep -q "sabre_off.svg" README.md; then
+            sed -i 's/sabre_off.svg/sabre_on.svg/g' README.md
+            echo "STATUS=LIGADO 🟢" >> $GITHUB_ENV
+          else
+            sed -i 's/sabre_on.svg/sabre_off.svg/g' README.md
+            echo "STATUS=DESLIGADO ⚫" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "⚔️ Sabre de Luz: ${{ env.STATUS }}"
+          git push
