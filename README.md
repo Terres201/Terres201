@@ -16,7 +16,7 @@ Sistema de Defesa do Perfil
 
 *Clique no sabre e depois em **Run Workflow** para alternar a energia:*
 
-[![Sabre de Luz](./assets/sabre_on.svg)](https://github.com/Terres201/Terres201/actions/workflows/toggle.yml)
+[![Sabre de Luz](./assets/sabre_off.svg)](https://github.com/Terres201/Terres201/actions/workflows/toggle.yml)
 
 ---
 
