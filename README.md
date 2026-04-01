@@ -1,7 +1,7 @@
 # Olá, sou Gabriel, mais conhecido por Terres!
 
-<p align="center">
-  <img src="./assets/header.png" width="100%" alt="Cabeçalho do Perfil de Gabriel" />
+<p align="left">
+  <img src="./assets/header.png" width="65%" alt="Cabeçalho do Perfil de Gabriel" />
 </p>
 
 Estudante de **Arquitetura e Urbanismo** na **UFES** & **Ciência da Computação** na **UVV**.  
