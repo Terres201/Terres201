@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel! 👋
 
-<!--
-**Terres201/Terres201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Arquitetura e Urbanismo** na **UFES** & **Ciência da Computação** na **UVV**. 
+Trabalhando na interseção entre design cenográfico, jogos e desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚔️ Sistema de Defesa do Perfil (Serverless API)
+*Clique no sabre para alternar a energia (Desenvolvido em Node.js)*
+
+[![Sabre de Luz](https://lightsaber-4lchq47c2-bielgeraldini235-5797s-projects.vercel.app/api/sabre)]([SEU_LINK_DA_VERCEL/api/sabre](https://lightsaber-4lchq47c2-bielgeraldini235-5797s-projects.vercel.app/api/sabre)?toggle=true)
+
+### Minhas Estatísticas
+
+![Stats de Gabriel](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
+---
+
+###  Tecnologias & Ferramentas
+`Java` `Python` `Node.js` `AutoCAD` `Revit` `Photoshop` `Unity`
+
+---
