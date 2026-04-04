@@ -23,12 +23,13 @@ Trabalhando na interseção entre design cenográfico, jogos e desenvolvimento d
 
 ## Sistema de Defesa do Perfil  
 
-*Clique no sabre para alternar a energia:*
+*Clique nos botões e feche a página para alternar a energia:*
 
-<p align="lleft">
-  <a href="https://my-profile-assets.vercel.app/api/sabre?state=off&color=00FF41">
-    <img src="https://my-profile-assets.vercel.app/api/sabre?state=on&color=00FF41" width="300" alt="Clique para desligar o Sabre">
-  </a>
+<p align="left">
+  <img src="https://my-profile-assets.vercel.app/api/sabre?color=00FF41" width="350" alt="Sabre de Luz do Terres" />
+  <br>
+  <a href="https://my-profile-assets.vercel.app/api/sabre?action=on">🟢 Ligar Sabre</a> | 
+  <a href="https://my-profile-assets.vercel.app/api/sabre?action=off">🔴 Desligar Sabre</a>
 </p>
 
 ---
