@@ -32,6 +32,8 @@ Trabalhando na interseção entre design cenográfico, jogos e desenvolvimento d
   <a href="https://my-profile-assets.vercel.app/api/sabre?action=off">🔴 Desligar Sabre</a>
 </p>
 
+<sub>*Nota: O estado do sabre é persistido em um banco Redis. Devido ao cache do GitHub, a mudança visual pode levar alguns segundos para refletir no perfil.*</sub>
+
 ---
 
 ## Minhas Skills
