@@ -19,13 +19,17 @@ Trabalhando na interseção entre design cenográfico, jogos e desenvolvimento d
   <img src="https://visitor-badge.laobi.icu/badge?page_id=terres201.terres201&"  />
 </div>
 
+---
 
+## Sistema de Defesa do Perfil  
 
-Sistema de Defesa do Perfil  
+*Clique no sabre para alternar a energia:*
 
-*Clique no sabre e depois em **Run Workflow** para alternar a energia:*
-
-[![Sabre de Luz](./assets/sabre_on.svg)](https://github.com/Terres201/Terres201/actions/workflows/toggle.yml)
+<p align="lleft">
+  <a href="https://my-profile-assets.vercel.app/api/sabre?state=off&color=00FF41">
+    <img src="https://my-profile-assets.vercel.app/api/sabre?state=on&color=00FF41" width="300" alt="Clique para desligar o Sabre">
+  </a>
+</p>
 
 ---
 
